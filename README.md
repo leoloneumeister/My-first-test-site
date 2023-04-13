@@ -1,1 +1,1 @@
-# My-first-test-site
+This website is thought as an interactive "to-do-list" in which you first state your name and create an account.
